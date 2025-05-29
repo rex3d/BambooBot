@@ -1,0 +1,67 @@
+[
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Eiffel_Tower_from_the_Trocadero%2C_Paris_5_April_2014.jpg",
+        "country": "france",
+        "aliases": ["france", "fr", "francja"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Statue_of_Liberty_7.jpg",
+        "country": "usa",
+        "aliases": ["usa", "us", "united states", "stany", "ameryka", "u.s.a."]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brandenburg_Gate_in_Berlin_November_2015_img3.jpg",
+        "country": "germany",
+        "aliases": ["germany", "de", "niemcy", "deutschland"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sydney_Opera_House_-_Dec_2008.jpg",
+        "country": "australia",
+        "aliases": ["australia", "au", "aussie"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tokyo_Tower_and_around_Skytree_2014.jpg",
+        "country": "japan",
+        "aliases": ["japan", "jp", "japonia", "nippon"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Christ_the_Redeemer_-_Rio.jpg",
+        "country": "brazil",
+        "aliases": ["brazil", "br", "brazylia"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/London_Eye_and_Thames.jpg",
+        "country": "uk",
+        "aliases": ["uk", "united kingdom", "england", "anglia", "gb"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+        "country": "italy",
+        "aliases": ["italy", "it", "wlochy", "italia"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Great_Wall_of_China_Jinshanling-edit.jpg",
+        "country": "china",
+        "aliases": ["china", "cn", "chiny", "zhongguo"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+        "country": "egypt",
+        "aliases": ["egypt", "eg", "egipt", "misr"]
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Taj_Mahal_in_March_2004.jpg",
+        "country": "india",
+        "aliases": ["india", "in", "indie", "bharat"]
+    },
+    {
+        "urll": "https://pl.wikipedia.org/wiki/Niagara_Falls_(Kanada)#/media/Plik:NiagaraFallsCanada.jpg",
+        "country": "canada",
+        "aliases": ["canada", "ca", "kanada"]
+    },
+    {
+        "urll": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sagrada_Familia_8-12-21_%281%29.jpg",
+        "country": "spain",
+        "aliases": ["spain", "es", "hiszpania", "espana"]
+    }
+]
